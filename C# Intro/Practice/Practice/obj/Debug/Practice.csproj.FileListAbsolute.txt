@@ -1,0 +1,7 @@
+C:\Users\fusco_anthony\Desktop\C# Intro\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\fusco_anthony\Desktop\C# Intro\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\fusco_anthony\Desktop\C# Intro\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\fusco_anthony\Desktop\C# Intro\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\fusco_anthony\Desktop\C# Intro\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\fusco_anthony\Desktop\C# Intro\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\fusco_anthony\Desktop\C# Intro\Practice\Practice\obj\Debug\Practice.pdb
